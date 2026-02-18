@@ -116,7 +116,7 @@ sudo docker run -d --name filebeat --network elastic \
 
 Проблемы с ILM (отключили для кастомных индексов)
 
-*Результат:
+* Результат:
 
 Filebeat успешно отправляет логи в Elasticsearch
 
